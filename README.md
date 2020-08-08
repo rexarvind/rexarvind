@@ -44,7 +44,7 @@
 
 <img align="left" alt="RexArvind's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true" />
 
-[website]: https://rexarvindwebservices.netlify.app/
+[website]: https://www.rexarvind.me/
 [twitter]: https://twitter.com/rexarvind
 [youtube]: https://youtube.com/rexarvind
 [instagram]: https://instagram.com/rexarvind
