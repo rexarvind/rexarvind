@@ -1,0 +1,5 @@
+body {font-family:'Rubik', sans-serif}
+
+.certificates {column-count:2;column-width:50%;
+column-gap:5px}
+.certificates img {margin-bottom:5px}
