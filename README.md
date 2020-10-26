@@ -34,6 +34,17 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
 
+<br /><br />
+
+### Image Resources:
+* Free Stock Images - https://www.pexels.com
+* Free Stock Images With Great API - https://unsplash.com/
+* Free Vectors, mockups - https://www.freepik.com
+* Dummy Image Placeholders - https://source.unsplash.com/
+* Dummy Image Placeholders - https://placeholder.com
+* Free Icons - https://www.iconfinder.com
+
+
 
 <br />
 <br />
