@@ -1,4 +1,4 @@
-### Hi there, I'm Arvind Kumar 👋
+### Hi there, I'm Arvind Kumar
 
 ## I'm a Web Developer and Designer.
 - I’m currently working on a [Automation Project][website]!
@@ -10,7 +10,7 @@
 ### My Toolkit
 - Languages: HTML, CSS, JavaScript, PHP, MySQL
 - Firebase Authentication, Progressive Web Apps (PWA)
-- PHP Data Objects (PDO)
+- PHP Data Objects (PDO), REST API
 
 ### Connect with me:
 
@@ -19,10 +19,6 @@
 [<img align="left" alt="rexarvind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rexarvind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rexarvind | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
 
 <br />
 
