@@ -1,11 +1,16 @@
-### Hi there, I'm Arvind Kumar - aka [RexArvind][website] 👋
+### Hi there, I'm Arvind Kumar 👋
 
-## I'm a Developer, Designer, Cardist, and Teacher!
+## I'm a Web Developer and Designer.
 - I’m currently working on a [Automation Project][website]!
 - I’m currently learning everything
 - I’m looking to collaborate with other content creators
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I love to draw and play video games
+
+### My Toolkit
+- Languages: HTML, CSS, JavaScript, PHP, MySQL
+- Firebase Authentication, Progressive Web Apps (PWA)
+- PHP Data Objects (PDO)
 
 ### Connect with me:
 
@@ -17,24 +22,9 @@
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png" />][website]
-[<img align="left" alt="Material Design" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/material-design/material-design.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][website]
-
-[<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][website]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
 
-<br /><br />
+<br />
 
 ### Image Resources:
 * Free Stock Images - https://www.pexels.com
