@@ -1,14 +1,12 @@
 ### Hi there, I'm Arvind Kumar
 
 ## I'm a Web Developer and Designer.
-- I’m currently working on a [Automation Project][website]!
-- I’m currently learning everything
 - I’m looking to collaborate with other content creators
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I love to draw and play video games
 
 ### My Toolkit
-- Languages: HTML, CSS, JavaScript, PHP, MySQL
+- HTML, CSS, JavaScript, PHP, MySQL
 - Firebase Authentication, Progressive Web Apps (PWA)
 - PHP Data Objects (PDO), REST API
 
