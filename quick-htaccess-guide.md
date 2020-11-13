@@ -121,5 +121,11 @@ RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* - [F,L]
 ```
 
-
+### Default DirectoryIndex Page
+Set the default page to load when by the browser for any folder.
+Here we are displaying `index.html` if it's available then `index.php`.
+If both are not available then either we will get error or list of all files and folders in that specific folder.
+```
+DirectoryIndex index.html index.php
+```
 
