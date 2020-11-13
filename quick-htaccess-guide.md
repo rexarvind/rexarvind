@@ -36,10 +36,20 @@ RewriteCond %{HTTP_REFERER} !^http://(www\.)?yourdomain.com/.*$ [NC]
 RewriteRule \.(gif|jpg)$ http://www.mywebsite.com/hotlink.jpg [R,L]
 ```
 
+### Default DirectoryIndex Page
+Set the default page to load when by the browser for any folder.
+Here we are displaying `index.html` if it's available then `index.php`.
+If both are not available then either we will get error or list of all files and folders in that specific folder.
+```
+DirectoryIndex index.html index.php
+```
+
+### 
+
+
 ### Stop Offline Browsers and Bad Bots
 Many browsers download content of the website, so that they can display it in offline mode, this uses a lot of our bandwidth and costs money.
 Some websites use bots to collect email addresses in the same process, here we are disabling their access.
-
 ```
 RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
@@ -119,13 +129,5 @@ RewriteCond %{HTTP_USER_AGENT} ^WWWOFFLE [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Xaldon\ WebSpider [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* - [F,L]
-```
-
-### Default DirectoryIndex Page
-Set the default page to load when by the browser for any folder.
-Here we are displaying `index.html` if it's available then `index.php`.
-If both are not available then either we will get error or list of all files and folders in that specific folder.
-```
-DirectoryIndex index.html index.php
 ```
 
