@@ -79,6 +79,17 @@ RewriteRule .* - [F,NS,L]
 
 ---
 
+### Stop access to php.ini file
+```
+<FilesMatch "^php5?\.(ini|cgi)$">
+Order Deny,Allow
+Deny from All
+Allow from env=REDIRECT_STATUS
+</FilesMatch>
+```
+
+---
+
 ### Stop Offline Browsers and Bad Bots
 Many browsers download content of the website, so that they can display it in offline mode, this uses a lot of our bandwidth and costs money.
 Some websites use bots to collect email addresses in the same process, here we are disabling their access.
