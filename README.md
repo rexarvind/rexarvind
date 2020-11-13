@@ -1,12 +1,12 @@
-## [Arvind Kumar][website]
+## [Arvind Kumar][website] :tada:
 LAMP Stack Web Developer.
 
-### Language and Tools
+### Language and Tools :page_with_curl:
 Here's a list of some of my favorite and often used libraries, services, languages, etc.
 - HTML, CSS, JavaScript, PHP, MySQL, Markdown
 - Bootstrap 5, Firebase Authentication, GD Library, fPDF, ChartJS and PWA
 
-### Achievements
+### Achievements :trophy:
 - Certificates from freeCodeCamp.org of Quincy Larson.
     - Response Web Description
     - Front End Libraries
@@ -14,7 +14,7 @@ Here's a list of some of my favorite and often used libraries, services, languag
     - Data Visualisation
 - Google Digital Unlocked Certificate.
 
-### Contact
+### Contact :postbox:
 
 [<img align="left" alt="rexarvind | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rexarvind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
