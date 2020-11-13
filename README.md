@@ -19,3 +19,7 @@
 ### Contact
 - Website: <https://rexarvind.me>
 - Email: <thatisarvind@gmail.com>
+
+
+---
+<img align="left" alt="RexArvind's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true" />
