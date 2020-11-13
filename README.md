@@ -1,4 +1,4 @@
-## [Arvind Kumar][website] :tada:
+## Arvind Kumar :eyeglasses:
 LAMP Stack Web Developer.
 
 ### Language and Tools :page_with_curl:
