@@ -16,3 +16,18 @@ First parameter, which is the path from where we are redirecting is relative url
 `````
 Redirect /old-folder/ https://example.com/new-folder/index.html
 `````
+
+### Hotlink Prevention (Save Bandwidth and Data)
+This is used to stop other websites from linking to files on our website. This saves bandwidth and our important data.
+Here we are protecting gif, jpg and css files. Make sure to change `mywebsite.com` to the domain of your website.
+```
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?mywebsite.com/.*$ [NC]
+RewriteRule \.(gif|jpg|css)$ - [F]
+```
+
+Return a different image to other users when they try to connect to our files.
+```
+
+```
