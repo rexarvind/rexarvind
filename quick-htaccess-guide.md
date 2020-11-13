@@ -48,13 +48,19 @@ If both are not available then either we will get error or list of all files and
 DirectoryIndex index.html index.php
 ```
 
+---
+
 ### Disable Directory Listings
 Disable all type of files
-
 ```
 IndexIgnore *
 ```
+For specific file types
+```
+IndexIgnore *.zip *.jpg *.gif
+```
 
+---
 
 ### Stop Offline Browsers and Bad Bots
 Many browsers download content of the website, so that they can display it in offline mode, this uses a lot of our bandwidth and costs money.
