@@ -1,0 +1,1 @@
+# Become .htaccess file Ninja 😎
