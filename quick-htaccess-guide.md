@@ -28,6 +28,10 @@ RewriteRule \.(gif|jpg|css)$ - [F]
 ```
 
 Return a different image to other users when they try to connect to our files.
+Here we are serving `hotlink.jpg` on request to gif and jpg files.
 ```
-
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?yourdomain.com/.*$ [NC]
+RewriteRule \.(gif|jpg)$ http://www.mywebsite.com/hotlink.jpg [R,L]
 ```
