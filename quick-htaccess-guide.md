@@ -62,6 +62,23 @@ IndexIgnore *.zip *.jpg *.gif
 
 ---
 
+### Stop browsers from accessing php includes files
+Preventing access to `/includes` folder.
+
+```
+## Enable Mod Rewrite, this is only required once in each .htaccess file
+RewriteEngine On
+RewriteBase /
+## Test for access to includes directory
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /includes/ .*$ [NC]
+## Test that file requested has php extension
+RewriteCond %{REQUEST_FILENAME} ^.+\.php$
+## Forbid Access
+RewriteRule .* - [F,NS,L]
+```
+
+---
+
 ### Stop Offline Browsers and Bad Bots
 Many browsers download content of the website, so that they can display it in offline mode, this uses a lot of our bandwidth and costs money.
 Some websites use bots to collect email addresses in the same process, here we are disabling their access.
