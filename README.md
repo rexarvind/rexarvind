@@ -1,8 +1,5 @@
-# Arvind Kumar
-
-
-## Web Developer
-
+## [Arvind Kumar][website]
+LAMP Stack Web Developer.
 
 ### Language and Tools
 Here's a list of some of my favorite and often used libraries, services, languages, etc.
