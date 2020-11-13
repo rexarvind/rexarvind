@@ -18,8 +18,6 @@ Here's a list of some of my favorite and often used libraries, services, languag
 - Google Digital Unlocked Certificate.
 
 ### Contact
-- Website: <https://rexarvind.me>
-- Email: <thatisarvind@gmail.com>
 
 [<img align="left" alt="rexarvind | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rexarvind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
