@@ -9,6 +9,7 @@ ErrorDocument 403 /error-pages/403.html
 ErrorDocument 404 /error-pages/404.html
 ErrorDocument 500 /error-pages/500.html
 ```
+---
 
 ### Redirecting
 Redirect from one url to another. Here we are redirecting from `old-folder` to `new-folder/index.html`.
@@ -16,6 +17,7 @@ First parameter, which is the path from where we are redirecting is relative url
 `````
 Redirect /old-folder/ https://example.com/new-folder/index.html
 `````
+---
 
 ### Hotlink Prevention (Save Bandwidth and Data)
 This is used to stop other websites from linking to files on our website. This saves bandwidth and our important data.
@@ -36,6 +38,8 @@ RewriteCond %{HTTP_REFERER} !^http://(www\.)?yourdomain.com/.*$ [NC]
 RewriteRule \.(gif|jpg)$ http://www.mywebsite.com/hotlink.jpg [R,L]
 ```
 
+---
+
 ### Default DirectoryIndex Page
 Set the default page to load when by the browser for any folder.
 Here we are displaying `index.html` if it's available then `index.php`.
@@ -44,7 +48,12 @@ If both are not available then either we will get error or list of all files and
 DirectoryIndex index.html index.php
 ```
 
-### 
+### Disable Directory Listings
+Disable all type of files
+
+```
+IndexIgnore *
+```
 
 
 ### Stop Offline Browsers and Bad Bots
