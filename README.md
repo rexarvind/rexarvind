@@ -1,5 +1,5 @@
 ## Arvind Kumar :eyeglasses:
-LAMP Stack Web Developer.
+Full Stack Web Developer and Designer
 
 ### Language and Tools :page_with_curl:
 Here's a list of some of my favorite and often used libraries, services, languages, etc.
