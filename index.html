@@ -1,7 +1,7 @@
 <!doctype html><html lang="en" class="h-100">
 <head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>ABC Graphics</title>
-<link href="./css/bootstrap.min.css" rel="stylesheet"><link href="./css/main.css" rel="stylesheet">
+<link href="./css/bootstrap.min.css" rel="stylesheet"><link href="./css/main.css" rel="stylesheet"><link href="./css/plyr.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head><body class="d-flex flex-column h-100 bg-light">
 <header><nav class="navbar fixed-top navbar-expand-sm navbar-light bg-white shadow"><div class="container-lg">
@@ -38,9 +38,12 @@
 
 <section class="bg-dark bg-gradient text-light mt-2 position-relative">
 <div class=" d-flex justify-content-center align-items-center">
-<video autoplay muted loop class="img-fluid">
+
+
+<video id="player" playsinline controls data-poster="./vid/vid1-poster.jpg">
 <source src="./vid/vid1.mp4" type="video/mp4" />
 </video>
+
 <span style="opacity:0.5" class="position-absolute w-100 h-100 bg-dark"></span>
 <div class="position-absolute text-center">
 <h1 class="typing"><span id="typed"></span>
@@ -294,5 +297,6 @@ Page Views: <span id="pageViews"></span>
 
 <script src="./js/bootstrap.bundle.min.js"></script>
 <script src="./js/typed.js"></script>
+<script src="./js/plyr.polyfilled.js"></script>
 <script src="./js/app.js"></script>
 </body></html>
