@@ -7,6 +7,14 @@ const typed=new Typed('#typed', {
   typeSpeed:60,
   loop:true}); 
 
+const player = new Plyr('#player',{
+volume: 0,
+muted: true,
+autoplay: true,
+loop:{active:true},
+controls: false
+});
+player.on('ready', event => {player.play()})
 
 function setServices(){
 const servicesBox=_('servicesBox')
