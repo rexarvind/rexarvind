@@ -1,10 +1,10 @@
 ## Arvind Kumar :eyeglasses:
-Full Stack Web Developer and Designer
+Web Developer and Designer
 
 ### Language and Tools :page_with_curl:
 Here's a list of some of my favorite and often used libraries, services, languages, etc.
 - HTML, CSS, JavaScript, PHP, MySQL, Markdown
-- Bootstrap 5, VueJS, Laravel, Firebase Authentication, GD Library, fPDF, ChartJS and PWA
+- Bootstrap, VueJS, Laravel, ChartJS and PWA
 
 ### Achievements :trophy:
 - Certificates from freeCodeCamp.org of Quincy Larson.
