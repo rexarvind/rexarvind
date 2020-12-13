@@ -1,10 +1,23 @@
 ## Arvind Kumar :eyeglasses:
 Web Developer and Designer
 
-### Language and Tools :page_with_curl:
-Here's a list of some of my favorite and often used libraries, services, languages, etc.
-- HTML, CSS, JavaScript, PHP, MySQL, Markdown
-- Bootstrap, VueJS, Laravel, ChartJS and PWA
+### Profile
+Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
+
+### Academics
+- Masters Degree of Commerce from Vidyant Hindu PG College with 62.86% in 2020.
+- Bachelors Degree of Commerce from A. Islamia Degree College with 60% in 2012.
+- Passed Intermediate from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 63.80% in 2013.
+- Passed High School from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 74.10% in 2011.
+- Certificates on rexarvind.me/certificates
+- Artworks on rexarvind.me/artworks
+
+### Experience
+- 5 months work experience at Sigh Ajay & Co. as FI Agent/Office Assistant.
+
+### Languages and Tools :page_with_curl:
+- HTML, CSS, JavaScript, PHP, MySQL, Python and Markdown.
+- Bootstrap, Laravel, VueJS, Git and Microsoft Office (Excel and Word).
 
 ### Achievements :trophy:
 - Certificates from freeCodeCamp.org of Quincy Larson.
