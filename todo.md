@@ -9,6 +9,6 @@ Requirements for a decent useful laptop.
 - **Intel i3 (atleast) :** so its doesn't slow down frequently.
 
 
-
+[SoundCloud Music](https://m.soundcloud.com/chrisheria/sets/workout-music)
 
 
