@@ -27,6 +27,14 @@ Organized, problem solver and detail-oriented web developer & designer with mind
     - Data Visualisation
 - Google Digital Unlocked Certificate.
 
+### Certificates
+1. [Google Analytics for Beginners](certificates/google-analytics-for-beginners.pdf)
+1. [Google Analytics for Power Users](certificates/google-analytics-for-power-users.pdf)
+1. [Advanced Google Analytics](certificates/advanced-google-analytics.pdf)
+1. [Getting Started with Google Analytics 360](certificates/getting-started-with-google-analytics-360.pdf)
+1. [Introduction to Data Studio](certificates/introduction-to-data-studio.pdf)
+1. [Google Tag Manager Fundamentals](certificates/google-tag-manager-fundamentals.pdf)
+
 ### Contact :postbox:
 
 [<img align="left" alt="rexarvind | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
