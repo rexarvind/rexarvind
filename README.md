@@ -37,7 +37,7 @@ Organized, problem solver and detail-oriented web developer & designer with mind
 1. [Programming for Games](certificates/mimo-programming-for-games.pdf)
 1. [Code for Android Apps](certificates/mimo-code-for-android-apps.pdf)
 1. [Code for iOS Apps](certificates/mimo-code-for-ios-apps.pdf)
-1. [Google Digital Unlocked]()
+1. [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf)
 1. [Google Analytics for Beginners](certificates/google-analytics-for-beginners.pdf)
 1. [Google Analytics for Power Users](certificates/google-analytics-for-power-users.pdf)
 1. [Advanced Google Analytics](certificates/advanced-google-analytics.pdf)
