@@ -66,6 +66,6 @@ Organized, problem solver and detail-oriented web developer & designer with mind
 [twitter]: https://twitter.com/rexarvind
 [youtube]: https://youtube.com/rexarvind
 [instagram]: https://instagram.com/rexarvind
-[linkedin]: https://linkedin.com/in/rexarvind
+[linkedin]: https://linkedin.com/in/rexwebmedia
 [blog]: https://rexarvind.blogspot.com
 
