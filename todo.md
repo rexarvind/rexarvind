@@ -3,8 +3,10 @@
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
 Table of Contents:
-- [Headings](#headings)
-- Bold and Italic
+- [Heading](#heading)
+- [Bold](#bold)
+- [Italic](#italic)
+- [Strikethrough](#strikethrough)
 - Ordered Lists
 - Unordered Lists
 - Divider
@@ -13,8 +15,9 @@ Table of Contents:
 - Images
 - Code Block
 
+---
 
-## Headings
+## Heading
 There are 6 types of headings, all starting with (#) sign. Here's an example with code.
 
 # This is Heading 1
@@ -32,6 +35,31 @@ There are 6 types of headings, all starting with (#) sign. Here's an example wit
 ##### This is Heading 5
 ###### This is Heading 6
 ```
+
+---
+
+## Bold
+
+**This text** is bold with double asterisk (*).
+```
+**This text** is bold with double asterisk (*).
+```
+---
+
+## Italic
+*This text* is italic and ***this one*** is bold with italic.
+
+---
+
+## Strikethrough
+
+You can ~~strike~~ with tilde sign.
+
+---
+
+
+
+
 
 
 ## Ordered Lists
