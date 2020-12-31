@@ -7,12 +7,14 @@ alt: Web Developer Roadmap with Resources
 
 
 ### Basic Tools
-1. Computer & OS: Windows 10
-1. 
+- Computer & OS: **Windows 10**
+- Design Software: **Figma**
+- Code Editor: **Visual Studio Code**
 
+#### Resources
 - [HP 15 DB1069AU on HP Store](https://store.hp.com/in-en/default/hp-notebook-15-db1069au-9vj83pa.html)
 
-
+---
 
 ### Code Editor
 Recommended: **Visual Studio Code**
