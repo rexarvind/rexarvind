@@ -1,4 +1,4 @@
-# Hi, I'm Arvind :eyeglasses:
+# Hi, I'm Arvind
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
 
@@ -43,7 +43,7 @@ Reading, Drawing, Speed Cubing, Movies, Cardistry.
 
 
 
-### Certificates :trophy:
+## Certificates :trophy:
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
 1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
@@ -66,7 +66,7 @@ Reading, Drawing, Speed Cubing, Movies, Cardistry.
 1. [Career Opportunities in Psychology in the age of COVID-19](certificates/career-opportunities-in-psychology-in-the-age-of-covid-19.pdf)
 
 
-### Contact :postbox:
+## Contact :postbox:
 
 [<img align="left" alt="rexarvind | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rexarvind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
