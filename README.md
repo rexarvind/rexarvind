@@ -17,7 +17,7 @@ Organized, problem solver and detail-oriented web developer & designer with mind
 
 
 
-## Languages and Tools :page_with_curl:
+## Languages and Tools
 - HTML, CSS, Sass, JavaScript, Typescript, PHP, MySQL, Python and Markdown.
 - Bootstrap, Laravel, VueJS, NuxtJS, Git, Figma and Microsoft Office (Excel, Word and PowerPoint).
 
