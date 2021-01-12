@@ -1,33 +1,49 @@
-## Arvind Kumar :eyeglasses:
-Web Developer and Graphic Designer
-
-### Profile
+# Hi, I'm Arvind :eyeglasses:
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
-### Academics
+
+
+## Academics
 - Masters Degree of Commerce from Vidyant Hindu PG College with 62.86% in 2020.
 - Bachelors Degree of Commerce from A. Islamia Degree College with 60% in 2012.
 - Passed Intermediate from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 63.80% in 2013.
 - Passed High School from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 74.10% in 2011.
-- Certificates on rexarvind.me/certificates
-- Artworks on rexarvind.me/artworks
+- Checkout my latest artworks on Instagram at [**@RexWebMedia**](https://instagram.com/rexwebmedia).
 
-### Experience
+
+
+## Experience
 - 5 months work experience at Sigh Ajay & Co. as FI Agent/Office Assistant.
 
-### Languages and Tools :page_with_curl:
-- HTML, CSS, JavaScript, PHP, MySQL, Python and Markdown.
-- Bootstrap, Laravel, VueJS, Git and Microsoft Office (Excel and Word).
 
-### Achievements :trophy:
-- Certificates from freeCodeCamp.org of Quincy Larson.
-    - Response Web Description
-    - Front End Libraries
-    - JavaScript Algorithms and Data Structures
-    - Data Visualisation
-- Google Digital Unlocked Certificate.
 
-### Certificates
+## Languages and Tools :page_with_curl:
+- HTML, CSS, Sass, JavaScript, Typescript, PHP, MySQL, Python and Markdown.
+- Bootstrap, Laravel, VueJS, NuxtJS, Git, Figma and Microsoft Office (Excel, Word and PowerPoint).
+
+
+
+## Projects
+- [**Rex Web Media** :](https://rexwebmedia.vercel.app) is a NuxtJS website to services of website development and digital posters.
+- [**Rexio** :](https://rexio.vercel.app) is a landing page design template made with NuxtJS and Bootstrap 5.
+
+
+
+## Books
+I love reading a lot. Here are the books I read. These are in alphabetical order.
+1. HTML and CSS by Jon Duckett
+1. JavaScript and jQuery by
+1. 
+1. Millionaire Fastlane
+
+
+
+## Interests
+Reading, Drawing, Speed Cubing, Movies, Cardistry.
+
+
+
+### Certificates :trophy:
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
 1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
