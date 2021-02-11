@@ -1,6 +1,6 @@
 # Hi, I'm Arvind :eyeglasses:
 
-**Web Developer and Graphic Designer**
+**Web Developer & Graphic Designer**
 
 
 ## Profile
@@ -30,31 +30,31 @@ Percentage: 74.10% (C.B.S.E. Board)
 **Certificates** \
 Google, Analytics Academy, HubSpot Academy, etc. \
 All 20+ certificates in pdf are on GitHub profile (@rexarvind)
---->
+
 
 ## Experience
 
-**Sigh Ajai & Company, Hazratganj**
-22 July 2017 - 9 December 2017 (6 Months)
+**Sigh Ajai & Company, Hazratganj** \
+22 July 2017 - 9 December 2017 (6 Months) \
 FI Agent/Office Assistant
-
+-->
 
 ## Skills
 
-**Languages**
+**Languages** \
 HTML, CSS, Sass, JavaScript, TypeScript, PHP, MySQL and Markdown
 
-**Frameworks & Softwares**
-Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint).
+**Frameworks & Softwares** \
+Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
 
 ## Projects
 
-**Darpan Agarbatti**
+**Darpan Agarbatti** \
 <https://darpanagarbatti.netlify.app>
 
-**Ranjan Commerce Tutorials**
+**Ranjan Commerce Tutorials** \
 <https://split.to/rcts>
 
 
