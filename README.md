@@ -64,12 +64,28 @@ Reading, Keyboarding and Drawing
 
 
 ## Books :books:
-1. HTML and CSS by Jon Duckett
-1. JavaScript and jQuery by
-1. 
-1. Millionaire Fastlane
-
-
+1. 100 Things by Susan Weinschenk
+1. 301 Best Questions to Ask on Your Interview (2nd Edition) by John Kador
+1. Atomic Habits by James Clear
+1. Eat That Frog! by Brian Tracy
+1. Eloquent JavaScript (3rd edition) by Marijn Haverbeke
+1. Get Paid More And Promoted Faster by Brian Tracy
+1. HTML & CSS by Jon Duckett
+1. Laravel Up and Running (2nd Edition) by Matt Stauffer
+1. No BS Price Strategy by Dan S. Kennedy & Jason Marrs
+1. Outliers by Malcolm Gladwell
+1. Predictably Irrational by Dan Ariely
+1. Pro Git (2nd Edition) by Scott Chacon & Ben Straub
+1. Rich Dad Poor Dad by Robert T. Kiyosaki
+1. SAS Survival Handbook by John 'Lofty' Wiseman
+1. Steal Like An Artist by Austin Kleon
+1. The 22 Immutable Laws of Marketing by Al Ries & Jack Trout
+1. The 48 Laws of Power by Robert Greene
+1. The 5 Second Rule by Mel Robbins
+1. The Compound Effect by Darren Hardy
+1. The Guide To Great Logos by Steve Douglas
+1. The Richest Man in Babylon by George S. Clason
+1. The Millionaire Fastlane by MJ DeMarco
 
 
 ## Certificates :trophy:
