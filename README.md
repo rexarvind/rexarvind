@@ -105,9 +105,9 @@ Reading, Keyboarding and Drawing
 [<img align="left" alt="rexarvind | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][blog]
 <br /><br />
 
-<img align="left" alt="RexArvind's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true" />
+[![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&layout=compact&hide_border=true)](#!)
 
 
 
