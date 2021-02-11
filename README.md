@@ -1,14 +1,14 @@
-# Hi, I'm Arvind :eyeglasses:
+# Hi, I'm Arvind :balloon:
 
 **Web Developer & Graphic Designer**
 
 
-## Profile
+## Profile :clipboard:
 
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
 
-## Academics
+## Academics :bar_chart:
 
 **Vidyant Hindu PG College, Aminabad (2018 - 2020)** \
 Master of Commerce (M.Com)
@@ -39,7 +39,7 @@ All 20+ certificates in pdf are on GitHub profile (@rexarvind)
 FI Agent/Office Assistant
 -->
 
-## Skills
+## Skills :gem:
 
 **Languages** \
 HTML, CSS, Sass, JavaScript, TypeScript, PHP, MySQL and Markdown
@@ -48,8 +48,7 @@ HTML, CSS, Sass, JavaScript, TypeScript, PHP, MySQL and Markdown
 Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
-
-## Projects
+## Projects :file_folder:
 
 **Darpan Agarbatti** \
 <https://darpanagarbatti.netlify.app>
@@ -58,13 +57,13 @@ Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Exce
 <https://split.to/rcts>
 
 
-## Interests
+## Interests :cookie:
 
 Reading, Keyboarding and Drawing
 
 
 
-## Books
+## Books :books:
 1. HTML and CSS by Jon Duckett
 1. JavaScript and jQuery by
 1. 
