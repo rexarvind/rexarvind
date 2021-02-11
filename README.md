@@ -107,7 +107,7 @@ Reading, Keyboarding and Drawing
 
 [![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&layout=compact&hide_border=true)](#!)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
 
 
 
