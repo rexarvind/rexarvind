@@ -1,45 +1,75 @@
-# Hi, I'm Arvind
+# Hi, I'm Arvind :eyeglasses:
+
+**Web Developer and Graphic Designer**
+
+
+## Profile
+
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
 
-
 ## Academics
-- Masters Degree of Commerce from Vidyant Hindu PG College with 62.86% in 2020.
-- Bachelors Degree of Commerce from A. Islamia Degree College with 60% in 2012.
-- Passed Intermediate from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 63.80% in 2013.
-- Passed High School from B.V.B. Vidyalaya, Gomti Nagar of C.B.S.E. Board with 74.10% in 2011.
-- Checkout my latest artworks on Instagram at [**@RexWebMedia**](https://instagram.com/rexwebmedia).
 
+**Vidyant Hindu PG College, Aminabad (2018 - 2020)** \
+Master of Commerce (M.Com)
+Percentage: 62.86%
 
+**A. Islamia Degree College, Lalbagh (2015 - 2018)** \
+Bachelor of Commerce (B.Com) \
+Percentage:
+
+**B. V. B. Vidyalaya, Gomti Nagar (2012 - 2013)** \
+Intermediate (12th) \
+Percentage: 63.80% (C.B.S.E. Board)
+
+**B. V. B. Vidyalaya, Gomti Nagar (2010 - 2011)** \
+High School (10th) \
+Percentage: 74.10% (C.B.S.E. Board)
+
+<!---
+**Certificates** \
+Google, Analytics Academy, HubSpot Academy, etc. \
+All 20+ certificates in pdf are on GitHub profile (@rexarvind)
+--->
 
 ## Experience
-- 5 months work experience at Sigh Ajay & Co. as FI Agent/Office Assistant.
+
+**Sigh Ajai & Company, Hazratganj**
+22 July 2017 - 9 December 2017 (6 Months)
+FI Agent/Office Assistant
 
 
+## Skills
 
-## Languages and Tools
-- HTML, CSS, Sass, JavaScript, Typescript, PHP, MySQL, Python and Markdown.
-- Bootstrap, Laravel, VueJS, NuxtJS, Git, Figma and Microsoft Office (Excel, Word and PowerPoint).
+**Languages**
+HTML, CSS, Sass, JavaScript, TypeScript, PHP, MySQL and Markdown
+
+**Frameworks & Softwares**
+Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint).
 
 
 
 ## Projects
-- [**Rex Web Media** :](https://rexwebmedia.vercel.app) is a NuxtJS website to services of website development and digital posters.
-- [**Rexio** :](https://rexio.vercel.app) is a landing page design template made with NuxtJS and Bootstrap 5.
+
+**Darpan Agarbatti**
+<https://darpanagarbatti.netlify.app>
+
+**Ranjan Commerce Tutorials**
+<https://split.to/rcts>
+
+
+## Interests
+
+Reading, Keyboarding and Drawing
 
 
 
 ## Books
-I love reading a lot. Here are the books I read. These are in alphabetical order.
 1. HTML and CSS by Jon Duckett
 1. JavaScript and jQuery by
 1. 
 1. Millionaire Fastlane
 
-
-
-## Interests
-Reading, Drawing, Speed Cubing, Movies, Cardistry.
 
 
 
@@ -78,10 +108,48 @@ Reading, Drawing, Speed Cubing, Movies, Cardistry.
 
 <img align="left" alt="RexArvind's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true" />
 
+
+
+
+
+<!--
+
+## Contact
+Whatsapp: (+91) 8181 040 977
+Email: thatisarvind@gmail.com
+Website: https://rexarvind.me
+GitHub: https://github.com/rexarvind
+
+## Other Details
+
+**Date of Birth**
+6 June, 1997
+
+**Marital Status**
+Unmarried/Single
+
+**Address**
+.........................
+
+
+
+## Declaration
+I hereby declare that the information stated above is true to the best of my knowledge.
+
+Date: .........................                      (Arvind Kumar)
+
+
+-->
+
+
+
+
+
+
+
 [website]: https://www.rexarvind.me/
 [twitter]: https://twitter.com/rexarvind
 [youtube]: https://youtube.com/rexarvind
 [instagram]: https://instagram.com/rexarvind
 [linkedin]: https://linkedin.com/in/rexwebmedia
 [blog]: https://rexarvind.blogspot.com
-
