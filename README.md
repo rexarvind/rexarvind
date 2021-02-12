@@ -11,7 +11,7 @@ Organized, problem solver and detail-oriented web developer & designer with mind
 ## Academics :bar_chart:
 
 **Vidyant Hindu PG College, Aminabad (2018 - 2020)** \
-Master of Commerce (M.Com)
+Master of Commerce (M.Com) \
 Percentage: 62.86%
 
 **A. Islamia Degree College, Lalbagh (2015 - 2018)** \
@@ -59,7 +59,7 @@ Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Exce
 
 ## Interests :cookie:
 
-Reading, Keyboarding and Drawing
+Reading and Drawing
 
 
 
@@ -89,6 +89,7 @@ Reading, Keyboarding and Drawing
 
 
 ## Certificates :trophy:
+1. [Netlify Jamstack Explorer]()
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
 1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
