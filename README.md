@@ -89,7 +89,7 @@ Reading and Drawing
 
 
 ## Certificates :trophy:
-1. [Netlify Jamstack Explorer]()
+1. [Netlify Jamstack Explorer](certificates/netlify-jamstack-explorers.pdf)
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
 1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
