@@ -119,7 +119,6 @@ Reading and Drawing
 [<img align="left" alt="rexarvind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rexarvind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rexarvind | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rexarvind | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][blog]
 <br /><br />
 
 [![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
@@ -133,7 +132,6 @@ Reading and Drawing
 ## Contact
 Whatsapp: (+91) 8181 040 977
 Email: thatisarvind@gmail.com
-Website: https://rexarvind.me
 GitHub: https://github.com/rexarvind
 
 ## Other Details
@@ -163,8 +161,8 @@ Date: .........................                      (Arvind Kumar)
 
 
 
-[website]: https://www.rexarvind.me/
-[twitter]: https://twitter.com/rexarvind
+[website]: https://rexarvind.web.app
+[twitter]: https://twitter.com/RexWebMedia
 [youtube]: https://youtube.com/rexarvind
 [instagram]: https://instagram.com/rexarvind
 [linkedin]: https://linkedin.com/in/rexwebmedia
