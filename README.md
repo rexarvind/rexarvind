@@ -1,12 +1,14 @@
-# Hi, I'm Arvind :balloon:
-
-**Web Developer & Graphic Designer**
-
-
-## Profile :clipboard:
+# Hi, I'm Arvind :eyeglasses:
 
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
+## Work Experience :clipboard:
+
+**Byvex Technologies, Indra Nagar** \
+Web Developer (June 2021 – Present)
+
+**Sigh Ajai & Company, Hazratganj** \
+Office Assistant (July 2017 – December 2017)
 
 ## Academics :bar_chart:
 
@@ -30,32 +32,28 @@ Percentage: 74.10% (C.B.S.E. Board)
 **Certificates** \
 Google, Analytics Academy, HubSpot Academy, etc. \
 All 20+ certificates in pdf are on GitHub profile (@rexarvind)
-
-
-## Experience
-
-**Sigh Ajai & Company, Hazratganj** \
-22 July 2017 - 9 December 2017 (6 Months) \
-FI Agent/Office Assistant
 -->
 
 ## Skills :gem:
 
-**Languages** \
-HTML, CSS, Sass, JavaScript, TypeScript, PHP, MySQL and Markdown
+**Programming Languages** \
+HTML, CSS, Sass, JavaScript, TypeScript, PHP and MySQL
 
 **Frameworks & Softwares** \
-Bootstrap, NuxtJS, VueJS, Laravel, Figma, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
+Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Laravel, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
 ## Projects :file_folder:
 
-**Darpan Agarbatti** \
-<https://darpanagarbatti.netlify.app>
-
-**Ranjan Commerce Tutorials** \
-<https://split.to/rcts>
-
+1. [Psychic](https://www.psychic.co.uk/)
+2. [GetAnalytica](https://getanalytica.com/)
+3. [Chemys-Tro](http://chemys-tro.com/)
+4. [Neutriderm](https://www.neutriderm.com.au/)
+5. [Amarra](https://www.amarra.com/)
+6. [Anoviq](http://anoviq.com/)
+7. [RexWebMedia](https://rexwebmedia.web.app/)
+8. [Darpan Agarbatti](https://darpanagarbatti.web.app)
+9. [ModernMarketers360](https://www.modernmarketers360.com/)
 
 ## Interests :cookie:
 
