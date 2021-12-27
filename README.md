@@ -40,7 +40,7 @@ All 20+ certificates in pdf are on GitHub profile (@rexarvind)
 HTML, CSS, Sass, JavaScript, TypeScript, PHP and MySQL
 
 **Frameworks & Softwares** \
-Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Laravel, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
+Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
 ## Projects :file_folder:
