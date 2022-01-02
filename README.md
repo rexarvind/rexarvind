@@ -5,10 +5,10 @@ Organized, problem solver and detail-oriented web developer & designer with mind
 ## Work Experience :clipboard:
 
 **Byvex Technologies, Indra Nagar** \
-Web Developer (June 2021 – Present)
+Part-time Web Developer (Jun 2021 – Present)
 
-**Sigh Ajai & Company, Hazratganj** \
-Office Assistant (July 2017 – December 2017)
+**RSA Softworks, Bengaluru** \
+Contractual Web Developer (Nov 2021 – Present)
 
 ## Academics :bar_chart:
 
