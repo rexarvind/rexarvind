@@ -2,13 +2,6 @@
 
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
-## Work Experience :clipboard:
-
-**Byvex Technologies, Indra Nagar** \
-Part-time Web Developer (Jun 2021 – Present)
-
-**RSA Softworks, Bengaluru** \
-Contractual Web Developer (Nov 2021 – Present)
 
 ## Academics :bar_chart:
 
