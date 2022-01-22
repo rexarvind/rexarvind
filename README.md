@@ -1,11 +1,14 @@
 # Arvind Kumar
-**Full Stack Web Developer** — \
+
+### Full Stack Web Developer
+
 I'm currently living and working in Lucknow, India.
 I started coding when I was in school, and haven't stopped since.
 My roles have ranged from individual contributor to technical lead and manager.
 I also write a blog to share whatever I learn.
 
 I have worked with various technologies such as WordPress, Laravel, VueJS, ReactJS and Figma.
+
 
 ## Academics :bar_chart:
 
@@ -31,6 +34,7 @@ Google, Analytics Academy, HubSpot Academy, etc. \
 All 20+ certificates in pdf are on GitHub profile (@rexarvind)
 -->
 
+
 ## Skills :gem:
 
 **Programming Languages** \
@@ -52,13 +56,34 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Git, GitHub an
 8. [Darpan Agarbatti](https://darpanagarbatti.web.app)
 9. [ModernMarketers360](https://www.modernmarketers360.com/)
 
-## Interests :cookie:
 
-Reading and Drawing
+## Certificates :trophy:
 
+1. [Netlify Jamstack Explorer](certificates/netlify-jamstack-explorers.pdf)
+1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
+1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
+1. [Data Visualisation](https://www.freecodecamp.org/certification/rexarvind/data-visualization)
+1. [Make a website](certificates/mimo-make-a-website.pdf)
+1. [Become a Hacker](certificates/mimo-become-a-hacker.pdf)
+1. [Programming for Games](certificates/mimo-programming-for-games.pdf)
+1. [Code for Android Apps](certificates/mimo-code-for-android-apps.pdf)
+1. [Code for iOS Apps](certificates/mimo-code-for-ios-apps.pdf)
+1. [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf)
+1. [Google Analytics for Beginners](certificates/google-analytics-for-beginners.pdf)
+1. [Google Analytics for Power Users](certificates/google-analytics-for-power-users.pdf)
+1. [Advanced Google Analytics](certificates/advanced-google-analytics.pdf)
+1. [Getting Started with Google Analytics 360](certificates/getting-started-with-google-analytics-360.pdf)
+1. [Introduction to Data Studio](certificates/introduction-to-data-studio.pdf)
+1. [Google Tag Manager Fundamentals](certificates/google-tag-manager-fundamentals.pdf)
+1. [BNCET Online Quiz](certificates/bncet-online-quiz.pdf)
+1. [Online Quiz on Research Methodology](certificates/online-quiz-on-research-methodology.pdf)
+1. [COVID-19 Pandemic General Awareness Quiz](certificates/covid-19-pandemic-general-awareness-quiz.pdf)
+1. [Career Opportunities in Psychology in the age of COVID-19](certificates/career-opportunities-in-psychology-in-the-age-of-covid-19.pdf)
 
 
 ## Books :books:
+
 1. 100 Things by Susan Weinschenk
 1. 301 Best Questions to Ask on Your Interview (2nd Edition) by John Kador
 1. Atomic Habits by James Clear
@@ -83,30 +108,6 @@ Reading and Drawing
 1. The Millionaire Fastlane by MJ DeMarco
 
 
-## Certificates :trophy:
-1. [Netlify Jamstack Explorer](certificates/netlify-jamstack-explorers.pdf)
-1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
-1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
-1. [Front End Libraries](https://www.freecodecamp.org/certification/rexarvind/front-end-libraries)
-1. [Data Visualisation](https://www.freecodecamp.org/certification/rexarvind/data-visualization)
-1. [Make a website](certificates/mimo-make-a-website.pdf)
-1. [Become a Hacker](certificates/mimo-become-a-hacker.pdf)
-1. [Programming for Games](certificates/mimo-programming-for-games.pdf)
-1. [Code for Android Apps](certificates/mimo-code-for-android-apps.pdf)
-1. [Code for iOS Apps](certificates/mimo-code-for-ios-apps.pdf)
-1. [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf)
-1. [Google Analytics for Beginners](certificates/google-analytics-for-beginners.pdf)
-1. [Google Analytics for Power Users](certificates/google-analytics-for-power-users.pdf)
-1. [Advanced Google Analytics](certificates/advanced-google-analytics.pdf)
-1. [Getting Started with Google Analytics 360](certificates/getting-started-with-google-analytics-360.pdf)
-1. [Introduction to Data Studio](certificates/introduction-to-data-studio.pdf)
-1. [Google Tag Manager Fundamentals](certificates/google-tag-manager-fundamentals.pdf)
-1. [BNCET Online Quiz](certificates/bncet-online-quiz.pdf)
-1. [Online Quiz on Research Methodology](certificates/online-quiz-on-research-methodology.pdf)
-1. [COVID-19 Pandemic General Awareness Quiz](certificates/covid-19-pandemic-general-awareness-quiz.pdf)
-1. [Career Opportunities in Psychology in the age of COVID-19](certificates/career-opportunities-in-psychology-in-the-age-of-covid-19.pdf)
-
-
 ## Contact :postbox:
 
 [<img align="left" alt="rexarvind | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -119,7 +120,6 @@ Reading and Drawing
 [![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
-
 
 
 <!--
@@ -149,11 +149,6 @@ Date: .........................                      (Arvind Kumar)
 
 
 -->
-
-
-
-
-
 
 
 [website]: https://rexarvind.web.app
