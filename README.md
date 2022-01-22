@@ -42,7 +42,7 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Git, GitHub an
 
 ## Projects :file_folder:
 
-1. [Psychic](https://www.psychic.co.uk/)
+1. [Psychic.co.uk](https://www.psychic.co.uk/)
 2. [GetAnalytica](https://getanalytica.com/)
 3. [Chemys-Tro](http://chemys-tro.com/)
 4. [Neutriderm](https://www.neutriderm.com.au/)
