@@ -1,7 +1,11 @@
 # Arvind Kumar
+**Full Stack Web Developer** — \
+I'm currently living and working in Lucknow, India.
+I started coding when I was in school, and haven't stopped since.
+My roles have ranged from individual contributor to technical lead and manager.
+I also write a blog to share whatever I learn.
 
-Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
-
+I have worked with various technologies such as WordPress, Laravel, VueJS, ReactJS and Figma.
 
 ## Academics :bar_chart:
 
