@@ -1,4 +1,4 @@
-# Hi, I'm Arvind Kumar
+# Arvind Kumar
 
 Organized, problem solver and detail-oriented web developer & designer with mindset of increasing efficiency and reducing cost. Passionate about continuous learning while delivering growth and sustainability to business.
 
