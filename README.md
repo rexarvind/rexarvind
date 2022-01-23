@@ -47,14 +47,15 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, WordPress, Git, GitHub an
 ## Projects :file_folder:
 
 1. [Psychic.co.uk](https://www.psychic.co.uk/)
-2. [GetAnalytica](https://getanalytica.com/)
-3. [Chemys-Tro](http://chemys-tro.com/)
-4. [Neutriderm](https://www.neutriderm.com.au/)
-5. [Amarra](https://www.amarra.com/)
-6. [Anoviq](http://anoviq.com/)
-7. [RexWebMedia](https://rexwebmedia.web.app/)
-8. [Darpan Agarbatti](https://darpanagarbatti.web.app)
-9. [ModernMarketers360](https://www.modernmarketers360.com/)
+1. [GetAnalytica](https://getanalytica.com/)
+1. [Chemys-Tro](http://chemys-tro.com/)
+1. [Neutriderm](https://www.neutriderm.com.au/)
+1. [Amarra](https://www.amarra.com/)
+1. [Funding Alternative](https://fundingaltdev.co.uk/)
+1. [Anoviq](http://anoviq.com/)
+1. [RexWebMedia](https://rexwebmedia.web.app/)
+1. [Darpan Agarbatti](https://darpanagarbatti.web.app)
+1. [ModernMarketers360](https://www.modernmarketers360.com/)
 
 
 ## Certificates :trophy:
