@@ -2,6 +2,9 @@
 
 ### Full Stack Web Developer
 
+Determined and task-driven professional web developer with 2+ years of experience across diverse industries and countries.
+Able to effectively self-manage during independent projects, as well as collaborate in team setting.
+
 I'm currently living and working in Lucknow, India.
 I started coding when I was in school, and haven't stopped since.
 My roles have ranged from individual contributor to technical lead and manager.
