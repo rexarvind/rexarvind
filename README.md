@@ -49,6 +49,7 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Git, Gi
 
 ## Projects :file_folder:
 
+1. [Brandsport St Benedict's](https://brandsport.co.za/)
 1. [Buco](https://buco.sa/)
 2. [Planet Odoo](https://planet-odoo.com/)
 3. [Psychic.co.uk](https://www.psychic.co.uk/)
