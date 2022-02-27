@@ -31,12 +31,6 @@ Percentage: 63.80% (C.B.S.E. Board)
 High School (10th) \
 Percentage: 74.10% (C.B.S.E. Board)
 
-<!---
-**Certificates** \
-Google, Analytics Academy, HubSpot Academy, etc. \
-All 20+ certificates in pdf are on GitHub profile (@rexarvind)
--->
-
 
 ## Skills :gem:
 
@@ -44,26 +38,26 @@ All 20+ certificates in pdf are on GitHub profile (@rexarvind)
 HTML, CSS, Sass, JavaScript, TypeScript, PHP and MySQL
 
 **Frameworks & Softwares** \
-Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
+Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Elementor, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
 ## Projects :file_folder:
 
+1. [Amarra](https://www.amarra.com/)
+1. [Anoviq](http://anoviq.com/)
 1. [Brandsport St Benedict's](https://brandsport.co.za/)
 1. [Buco](https://buco.sa/)
-2. [Planet Odoo](https://planet-odoo.com/)
-3. [Psychic.co.uk](https://www.psychic.co.uk/)
-4. [SecuriTouch](http://securitouch.in/index.html)
-5. [GetAnalytica](https://getanalytica.com/)
-6. [Chemys-Tro](http://chemys-tro.com/)
-7. [Neutriderm](https://www.neutriderm.com.au/)
-8. [Amarra](https://www.amarra.com/)
-9. [Funding Alternative](https://fundingaltdev.co.uk/)
-10. [Anoviq](http://anoviq.com/)
-11. [RexWebMedia](https://rexwebmedia.web.app/)
-12. [Darpan Agarbatti](https://darpanagarbatti.web.app)
-13. [ModernMarketers360](https://www.modernmarketers360.com/)
-14. [VP Agro Sciences](https://vpagrosciences.com/)
+1. [Chemys-Tro](http://chemys-tro.com/)
+1. [Darpan Agarbatti](https://darpanagarbatti.web.app)
+1. [Funding Alternative](https://fundingaltdev.co.uk/)
+1. [GetAnalytica](https://getanalytica.com/)
+1. [ModernMarketers360](https://www.modernmarketers360.com/)
+1. [Neutriderm](https://www.neutriderm.com.au/)
+1. [Planet Odoo](https://planet-odoo.com/)
+1. [Psychic.co.uk](https://www.psychic.co.uk/)
+1. [RexWebMedia](https://rexwebmedia.web.app/)
+1. [SecuriTouch](http://securitouch.in/index.html)
+1. [VP Agro Sciences](https://vpagrosciences.com/)
 
 
 ## Certificates :trophy:
@@ -131,38 +125,9 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Git, Gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
 
 
-<!--
-
-## Contact
-Whatsapp: (+91) 8181 040 977
-Email: thatisarvind@gmail.com
-GitHub: https://github.com/rexarvind
-
-## Other Details
-
-**Date of Birth**
-6 June, 1997
-
-**Marital Status**
-Unmarried/Single
-
-**Address**
-.........................
-
-
-
-## Declaration
-I hereby declare that the information stated above is true to the best of my knowledge.
-
-Date: .........................                      (Arvind Kumar)
-
-
--->
-
-
 [website]: https://rexarvind.web.app
-[twitter]: https://twitter.com/RexWebMedia
+[twitter]: https://twitter.com/rexarvind
 [youtube]: https://youtube.com/rexarvind
 [instagram]: https://instagram.com/rexarvind
-[linkedin]: https://linkedin.com/in/rexwebmedia
-[blog]: https://rexarvind.blogspot.com
+[linkedin]: https://linkedin.com/in/rexarvind
+[blog]: https://rexarvind.vercel.app
