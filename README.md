@@ -1,8 +1,8 @@
 # Arvind Kumar
 
-### Full Stack Web Developer
+### Remote Web Developer
 
-Determined and task-driven professional web developer with 2+ years of experience across diverse industries and countries.
+Determined and task-driven professional full stack web developer with 2+ years of experience across diverse industries and countries.
 Able to effectively self-manage during independent projects, as well as collaborate in team setting.
 
 I'm currently living and working in Lucknow, India.
