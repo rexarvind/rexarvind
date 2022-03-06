@@ -21,7 +21,7 @@ Percentage: 62.86%
 
 **A. Islamia Degree College, Lalbagh (2015 - 2018)** \
 Bachelor of Commerce (B.Com) \
-Percentage:
+Percentage: 40%
 
 **B. V. B. Vidyalaya, Gomti Nagar (2012 - 2013)** \
 Intermediate (12th) \
@@ -52,6 +52,7 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Element
 1. [Funding Alternative](https://fundingaltdev.co.uk/)
 1. [GetAnalytica](https://getanalytica.com/)
 1. [ModernMarketers360](https://www.modernmarketers360.com/)
+1. [Narayana Vidyalayam](http://nesnv.com/)
 1. [Neutriderm](https://www.neutriderm.com.au/)
 1. [Planet Odoo](https://planet-odoo.com/)
 1. [Psychic.co.uk](https://www.psychic.co.uk/)
