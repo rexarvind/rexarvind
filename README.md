@@ -46,7 +46,6 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Element
 
 1. [Darpan Agarbatti](https://darpanagarbatti.web.app)
 1. [ModernMarketers360](https://www.modernmarketers360.com/)
-1. [Narayana Vidyalayam](http://nesnv.com/)
 1. [RexWebMedia](https://rexwebmedia.web.app/)
 1. [SecuriTouch](http://securitouch.in/index.html)
 1. [VP Agro Sciences](https://vpagrosciences.com/)
