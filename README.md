@@ -43,22 +43,14 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Element
 
 ## Projects :file_folder:
 
-1. [Amarra](https://www.amarra.com/)
-1. [Anoviq](http://anoviq.com/)
-1. [Brandsport St Benedict's](https://brandsport.co.za/)
-1. [Buco](https://buco.sa/)
-1. [Chemys-Tro](http://chemys-tro.com/)
+
 1. [Darpan Agarbatti](https://darpanagarbatti.web.app)
-1. [Funding Alternative](https://fundingaltdev.co.uk/)
-1. [GetAnalytica](https://getanalytica.com/)
 1. [ModernMarketers360](https://www.modernmarketers360.com/)
 1. [Narayana Vidyalayam](http://nesnv.com/)
-1. [Neutriderm](https://www.neutriderm.com.au/)
-1. [Planet Odoo](https://planet-odoo.com/)
-1. [Psychic.co.uk](https://www.psychic.co.uk/)
 1. [RexWebMedia](https://rexwebmedia.web.app/)
 1. [SecuriTouch](http://securitouch.in/index.html)
 1. [VP Agro Sciences](https://vpagrosciences.com/)
+1. Can't list more website to ensure privacy.
 
 
 ## Certificates :trophy:
