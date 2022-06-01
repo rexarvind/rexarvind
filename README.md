@@ -10,8 +10,9 @@ I started coding when I was in school, and haven't stopped since.
 My roles have ranged from individual contributor to technical lead and manager.
 I also write a blog to share whatever I learn.
 
-I have worked with various technologies such as WordPress, Laravel, VueJS, ReactJS and Figma.
+I have worked with various technologies such as WordPress, Laravel, VueJS and ReactJS.
 
+Nowadays I'm working on Laravel and NextJS project. Laravel will serve as backend api and NextJS will be as frontend.
 
 ## Academics :bar_chart:
 
@@ -54,6 +55,8 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Element
 
 ## Certificates :trophy:
 
+Some of these links open directly to authorised website while other open the pdf I received.
+
 1. [Netlify Jamstack Explorer](certificates/netlify-jamstack-explorers.pdf)
 1. [Responsive Web Design](https://www.freecodecamp.org/certification/rexarvind/responsive-web-design)
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rexarvind/javascript-algorithms-and-data-structures)
@@ -71,13 +74,16 @@ Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Element
 1. [Getting Started with Google Analytics 360](certificates/getting-started-with-google-analytics-360.pdf)
 1. [Introduction to Data Studio](certificates/introduction-to-data-studio.pdf)
 1. [Google Tag Manager Fundamentals](certificates/google-tag-manager-fundamentals.pdf)
+<!--
 1. [BNCET Online Quiz](certificates/bncet-online-quiz.pdf)
 1. [Online Quiz on Research Methodology](certificates/online-quiz-on-research-methodology.pdf)
 1. [COVID-19 Pandemic General Awareness Quiz](certificates/covid-19-pandemic-general-awareness-quiz.pdf)
 1. [Career Opportunities in Psychology in the age of COVID-19](certificates/career-opportunities-in-psychology-in-the-age-of-covid-19.pdf)
-
+-->
 
 ## Books :books:
+
+I like read in free time and here's my list.
 
 1. 100 Things by Susan Weinschenk
 1. 301 Best Questions to Ask on Your Interview (2nd Edition) by John Kador
