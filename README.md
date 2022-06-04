@@ -89,6 +89,18 @@ Some of these links open directly to authorised website while other open the pdf
 -->
 
 
+## Contact :postbox:
+
+**Email**: rexarvind.in@gmail.com \
+**WhatsApp**: [+91 8181 040 977](https://api.whatsapp.com/send?phone=918181040977) \
+**Instagram**: [instagram.com/rexarvind](https://www.instagram.com/rexarvind/)
+
+[![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
+
+
+
 ## Books :books:
 
 I like read in free time and here's my list.
@@ -115,17 +127,6 @@ I like read in free time and here's my list.
 1. The Guide To Great Logos by Steve Douglas
 1. The Richest Man in Babylon by George S. Clason
 1. The Millionaire Fastlane by MJ DeMarco
-
-
-## Contact :postbox:
-
-**Email**: rexarvind.in@gmail.com \
-**WhatsApp**: +91 8181 040 977 \
-**Instagram**: instagram.com/rexarvind
-
-[![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
 
 
 [website]: https://rexarvind.web.app
