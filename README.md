@@ -67,16 +67,13 @@ Some of these links open directly to authorised website while other open the pdf
 1. [Google Analytics for Power Users](certificates/google-analytics-for-power-users.pdf)
 1. [Advanced Google Analytics](certificates/google-advanced-google-analytics.pdf)
 1. [Getting Started with Google Analytics 360](certificates/google-getting-started-with-google-analytics-360.pdf)
-
-<!--
-1. [Introduction to Data Studio](certificates/google-introduction-to-data-studio.pdf)
--->
-
 1. [Google Tag Manager Fundamentals](certificates/google-tag-manager-fundamentals.pdf)
-1. [Google Ads Display Certification](certificates/google-ads-display-certification.pdf)
+
 
 <!--
 
+1. [Google Ads Display Certification](certificates/google-ads-display-certification.pdf)
+1. [Introduction to Data Studio](certificates/google-introduction-to-data-studio.pdf)
 1. [Make a website](certificates/mimo-make-a-website.pdf)
 1. [Become a Hacker](certificates/mimo-become-a-hacker.pdf)
 1. [Programming for Games](certificates/mimo-programming-for-games.pdf)
