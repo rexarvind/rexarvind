@@ -14,6 +14,8 @@ I have worked with various technologies such as WordPress, Laravel, VueJS and Re
 
 Nowadays I'm working on Laravel and NextJS project. Laravel will serve as backend api and NextJS will be as frontend.
 
+[Github Skyline 2021](https://skyline.github.com/rexarvind/2021)
+
 ## Academics :bar_chart:
 
 **Vidyant Hindu PG College, Aminabad (2018 - 2020)** \
@@ -39,7 +41,7 @@ Percentage: 74.10% (C.B.S.E. Board)
 HTML, CSS, Sass, JavaScript, TypeScript, PHP and MySQL
 
 **Frameworks & Softwares** \
-Bootstrap, Tailwind, jQuery, Vue, React, Next, Alpine, Axios, WordPress, Elementor, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
+Bootstrap, Tailwind, jQuery, React, Next, GSAP, WordPress, Elementor, Git, GitHub and Microsoft Office (Excel, Word and PowerPoint)
 
 
 ## Projects :file_folder:
