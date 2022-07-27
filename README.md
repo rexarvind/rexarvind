@@ -86,6 +86,9 @@ Some of these links open directly to authorised website while other open the pdf
 1. [COVID-19 Pandemic General Awareness Quiz](certificates/covid-19-pandemic-general-awareness-quiz.pdf)
 1. [Career Opportunities in Psychology in the age of COVID-19](certificates/career-opportunities-in-psychology-in-the-age-of-covid-19.pdf)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
+
 -->
 
 
@@ -96,9 +99,6 @@ Some of these links open directly to authorised website while other open the pdf
 **Instagram**: [instagram.com/rexarvind](https://www.instagram.com/rexarvind/)
 
 [![RexArvind's Github Stats](https://github-readme-stats.vercel.app/api?username=rexarvind&show_icons=true&hide_border=true)](#!)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexarvind&hide=html&layout=compact&hide_border=true)](#!)
-
 
 
 ## Books :books:
